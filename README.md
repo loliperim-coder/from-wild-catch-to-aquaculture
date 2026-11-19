@@ -30,6 +30,13 @@ The project was developed as part of my final project at Le Wagon's Data Analyti
 
 Completed — Le Wagon Data Analytics Bootcamp Final Project.
 
-## Dashboard Preview
+## Dashboard Visualisations
 
-![Aquaculture Dashboard](aquaculture-dashboard.png)
+### Aquaculture Impact on Water
+![Aquaculture Impact on Water](Aquaculture_impact_on_water.png)
+
+### Breakdown by Country
+![Breakdown by Country](breakdown_by_country.png)
+
+### Global Transition Scenario
+![Global Transition Scenario](global_transition_scenario.png)
