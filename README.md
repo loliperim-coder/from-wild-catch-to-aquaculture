@@ -1,34 +1,76 @@
 # From Wild Catch to Aquaculture
+### Exploring Global Aquatic Food Production, Sustainability and Environmental Impacts
 
 ## Project Overview
 
-This project explores the relationship between wild-caught fisheries and aquaculture, using data analysis and visualisation to investigate trends in aquatic food production.
+In 2022, aquaculture surpassed capture fisheries for the first time in global aquatic animal production, marking a major transformation in the way the world produces aquatic food.
 
-The project was developed as part of my final project at Le Wagon's Data Analytics bootcamp, using data visualisation to communicate findings and support a better understanding of the aquaculture sector.
+This project investigates the shift from wild-caught fisheries to aquaculture, exploring the drivers behind this transition and its potential environmental implications.
+
+Developed as the final project of the Le Wagon Data Analytics Bootcamp, the analysis combines international datasets from the Food and Agriculture Organization (FAO) and the Scottish Environment Protection Agency (SEPA), using SQL and Looker Studio to analyse trends and communicate insights through interactive data visualisations.
+
+## Research Question
+
+**If wild-capture fisheries cannot grow indefinitely, where is the growth in global aquatic food production coming from?**
 
 ## Project Objectives
 
-- Explore trends in wild-capture fisheries and aquaculture.
-- Analyse relevant data to identify patterns and developments.
-- Present findings through interactive data visualisations.
-- Communicate insights in an accessible and informative dashboard.
+- Analyse the evolution of global capture fisheries and aquaculture production over recent decades.
+- Investigate the growth of aquaculture in relation to wild-capture fisheries.
+- Identify the countries, species and aquatic environments contributing to this transition.
+- Explore the sustainability of wild fish stocks.
+- Examine potential environmental pressures associated with aquaculture expansion, including chemical discharges from fish farming.
+- Communicate findings through interactive dashboards and data visualisations.
+
+## Data Sources
+
+The project uses publicly available datasets from the following organisations:
+
+**Food and Agriculture Organization of the United Nations (FAO)**
+
+- [Global Capture Fisheries Production (1950–2024)](https://www.fao.org/fishery/collection/capture/en)
+- [Global Aquaculture Production (1950–2024)](https://www.fao.org/fishery/collection/aquaculture/en)
+- [SDG Indicator 14.4.1 — Sustainable Fish Stocks](https://dataexplorer.fao.org/vis?fs%5B0%5D=D%2Co&pg=0&fc=Domain&bp=true&snb=3&df%5Bds%5D=ds-release&df%5Bid%5D=DF_SDG_14_4_1&df%5Bag%5D=FAO&df%5Bvs%5D=1.0&dq=A...........&pd=2020%2C2021&to%5BTIME_PERIOD%5D=false)
+- [Global Fish Consumption and Food Balance Sheets](https://www.fao.org/fishery/collection/global_fish_consump/en)
+
+**Scottish Environment Protection Agency (SEPA)**
+
+- [Fish Farm Annual Emissions Dataset](https://aquaculture.scotland.gov.uk/Resources/DatasetDescriptions/FishFarmAnnualEmissions)
 
 ## Tools & Technologies
 
-- Looker Studio
-- Data analysis and visualisation
+- **SQL** — Data querying and analysis.
+- **Looker Studio** — Interactive dashboards and data visualisation.
+- **FAO and SEPA datasets** — International fisheries, aquaculture and environmental data.
 
-## Dashboard
+## Key Analytical Indicators
 
-[View the interactive Looker Studio dashboard](https://datastudio.google.com/s/j7WGNKIEVvw)
+- **Sustainable Fish Stocks:** Proportion of assessed fish stocks within biologically sustainable levels.
+- **Aquaculture Share:** Proportion of total aquatic animal production contributed by aquaculture.
+- **Chemical Discharges:** Nitrogen, phosphorus and carbon released into aquatic environments through fish farming.
+- **Apparent Fish Consumption:** Annual fish and seafood consumption, measured in total quantities and per capita.
+- **Compound Annual Growth Rate (CAGR):** Average annual growth rate over a defined period.
 
-## Project Files
+## Dashboard Structure
 
-- `From_Wild_Catch_to_Aquaculture.pdf` — PDF export of the project dashboard.
+The analysis is organised into two main parts:
 
-## Project Status
+**Part I — Understanding the Aquaculture Transition**
 
-Completed — Le Wagon Data Analytics Bootcamp Final Project.
+1. Global Overview — Production trends and the shift towards aquaculture.
+2. Aquatic Environments — Production across marine, freshwater and brackish environments.
+3. Country Analysis — Major producers and their contributions to aquaculture growth.
+4. Species Analysis — Species composition and its role in the transition.
+
+**Part II — Exploring Environmental Implications**
+
+5. Scottish Salmon Farming: A Case Study — Chemical discharges and potential environmental pressures associated with fish farming.
+
+## Dashboard & Project Files
+
+[View the Interactive Looker Studio Dashboard](https://datastudio.google.com/s/j7WGNKIEVvw)
+
+**Project PDF:** `From_Wild_Catch_to_Aquaculture.pdf`
 
 ## Dashboard Visualisations
 
@@ -40,3 +82,5 @@ Completed — Le Wagon Data Analytics Bootcamp Final Project.
 
 ### Global Transition Scenario
 ![Global Transition Scenario](global_transition_scenario.png)
+
+## Project
