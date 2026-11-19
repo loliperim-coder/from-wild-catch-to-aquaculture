@@ -29,3 +29,7 @@ The project was developed as part of my final project at Le Wagon's Data Analyti
 ## Project Status
 
 Completed — Le Wagon Data Analytics Bootcamp Final Project.
+
+## Dashboard Preview
+
+![Aquaculture Dashboard](aquaculture-dashboard.png)
