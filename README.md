@@ -66,6 +66,22 @@ The analysis is organised into two main parts:
 
 5. Scottish Salmon Farming: A Case Study — Chemical discharges and potential environmental pressures associated with fish farming.
 
+6. ## Key Findings & Environmental Insights
+
+### Scottish Salmon and Trout Farming — Environmental Implications
+
+To investigate the potential environmental impacts of aquaculture, the project examined annual emissions data from salmon and trout farms in Scotland, using nitrogen, phosphorus and organic carbon as indicators.
+
+These elements are important indicators of aquatic environmental health. When released in excessive quantities, nutrients such as nitrogen and phosphorus can contribute to eutrophication, encouraging excessive algae growth and reducing dissolved oxygen levels. This can negatively affect fish and other aquatic organisms.
+
+**Key observation:**
+
+The analysis identified an increase over time in the quantities of nutrients released by the fish farms examined, highlighting the importance of monitoring environmental emissions alongside aquaculture production growth.
+
+**Why this matters:**
+
+The transition towards aquaculture may help address growing global demand for aquatic food, but increased production also brings environmental considerations. Sustainable development requires balancing food production with the protection of aquatic ecosystems.
+
 ## Dashboard & Project Files
 
 [View the Interactive Looker Studio Dashboard](https://datastudio.google.com/s/j7WGNKIEVvw)
